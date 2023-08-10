@@ -16,7 +16,7 @@
 ## Table of contents
 * [Introduction](#introduction)
 * [Prerequisite](#prerequisite)
-* [Download](#download)
+  <!-- * [Download](#download) -->
 * [Execution](#execution)
 * [Explanation](#explanation)
 	* [Adding element in BST](#adding-element-in-binary-search-tree)
@@ -37,9 +37,9 @@
 		 - [Notepad++](https://notepad-plus-plus.org/downloads/ "Notepad++")
    		 - [Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code")
 
-## Download
+<!--- ## Download
 - Download .jar file form [Latest Releases](https://github.com/RajSamaiya/BSTVisualizer/releases "Download")
-- **Note**: For run this .jar file you want to complete [Prerequisite](#prerequisite) firsts.
+- **Note**: For run this .jar file you want to complete [Prerequisite](#prerequisite) firsts. -->
 
 ## Execution
 - Open CMD or terminal where you put BSTVisualization.java file.

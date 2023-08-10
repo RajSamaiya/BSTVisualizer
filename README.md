@@ -1,7 +1,7 @@
 <h1 align="center"> Binary Search Tree Visualization</h1>
 
 <p align="center">
-	<a href="https://github.com/urvesh254" title="profile">
+	<a href="https://github.com/RajSamaiya" title="profile">
 	<img src="https://img.shields.io/badge/maintainer-urvesh254-blue" alt="maintainer">
 	</a>
 	<a href="https://www.oracle.com/in/java/technologies/javase-downloads.html" title="JDK Download">
@@ -37,7 +37,7 @@
 		 - [Notepad++](https://notepad-plus-plus.org/downloads/ "Notepad++")
 
 ## Download
-- Download .jar file form [Latest Releases](https://github.com/urvesh254/BST-Visualization/releases "Download")
+- Download .jar file form [Latest Releases](https://github.com/RajSamaiya/BSTVisualizer/releases "Download")
 - **Note**: For run this .jar file you want to complete [Prerequisite](#prerequisite) firsts.
 
 ## Execution

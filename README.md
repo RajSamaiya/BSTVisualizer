@@ -2,12 +2,12 @@
 
 <p align="center">
 	<a href="https://github.com/RajSamaiya" title="profile">
-	<img src="https://img.shields.io/badge/maintainer-urvesh254-blue" alt="maintainer">
+	<img src="https://img.shields.io/badge/maintainer-RajSamaiya-blue" alt="maintainer">
 	</a>
 	<a href="https://www.oracle.com/in/java/technologies/javase-downloads.html" title="JDK Download">
 		<img src="https://img.shields.io/badge/JDK-%3E%3D%20v8-blue" alt="jdk version">
 	</a>
-	<a href="https://github.com/urvesh254/BST-Visualization/releases">
+	<a href="https://github.com/RajSamaiyas/BST-Visualization/releases">
 		<img src="https://img.shields.io/badge/release-1.0.0-blue" alt="release">
 	</a>
 	<img src="https://img.shields.io/badge/contributor-welcome-brightgreen" alt="contributor">
@@ -23,9 +23,9 @@
 	* [Deleting Element from BST](#deleting-element-from-binary-search-tree)
 
 ## Introduction
-- Hey there, welcome to **BST Visualization** repository. In this repository you see how operations in **Binary Search Tree** Data Structure like "Delete" and "Add" actually works and how BST is construct in visually.
-- Currently this program accept only Integer inputs.
-- **"Suggestions are welcome"**, put your suggestions in issue.
+- Hello and welcome to the **BST Visualization** repository. Here, you can explore how operations on the Binary Search Tree (BST) data structure, such as "Delete" and "Add," are actually executed. You can also visualize the construction process of a BST.
+- Please note that the program currently only accepts integer inputs. We greatly appreciate any suggestions you might have. If you have any ideas or feedback, feel free to create an issue to share them with us. Your input is valuable and will help us improve the repository's functionality and content.
+- Thank you for your interest, and we look forward to your contributions and suggestions!
 
 ## Prerequisite 
 -   For run **BST Vitalization** in you system you want to install some softwares.
@@ -35,6 +35,7 @@
 		 - [NetBeans](https://netbeans.org/ "NetBeans IDE")
 		 - [Atom](https://atom.io/ "Atom")
 		 - [Notepad++](https://notepad-plus-plus.org/downloads/ "Notepad++")
+   		 - [Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code")
 
 ## Download
 - Download .jar file form [Latest Releases](https://github.com/RajSamaiya/BSTVisualizer/releases "Download")
